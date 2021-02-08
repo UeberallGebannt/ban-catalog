@@ -10,12 +10,13 @@ Die Bans werden manuell verteilt und in besonderen Fällen kann vom Katalog abge
 Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Bans und noch offene Fälle werden dadurch nicht angepasst/aktualisiert.
 Bei Wiederholungstaten (des gleichen Bangrunds), wird die Banzeit verdoppelt.
 
-Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist, wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht.
+Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist, wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht (zB. Hacking-Varo).
 
 ## Bangründe
 ```
 Hacking
    ↳ CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
+   ↳ Crashing & DDOS 
    ↳ 2 Monate
 
 Chatverhalten¹
@@ -33,6 +34,9 @@ Ausnutzung der Adminrechte
    ↳ unrechtmäßiges Bannen
    ↳ unrechtmäßiges Wiederbeleben/Töten
    ↳ sonstige schwere Rechteausnutzungen
+   ↳ Verändern des Regelwerks während eines laufenden Varos zum Vorteil von nicht allen Nutzern
+   ↳ Modifizieren der Welt zum Vorteil von nicht allen Nutzern
+   ↳ ungleiche Behandlung der Spieler jeglicher Art mit mindestens mittelschweren Auswirkungen
    ↳ 1-2 Monate
 
 Nichtausschüttung von Preisen
